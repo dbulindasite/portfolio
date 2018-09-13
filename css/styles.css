@@ -106,14 +106,15 @@ html, body {
   animation-play-state: running;
 }
 
-/*.profile .infoHolder {
+.profile .infoHolder {
   width: 60%;
   float: right;
   right: 1%;
   position: absolute;
   overflow-x: hidden;
 }
-.profile .infoHolder h2 {
+
+/*.profile .infoHolder h2 {
   font-family: 'Fjalla One', sans-serif;
   letter-spacing: 3px;
   margin-top: 0px;
