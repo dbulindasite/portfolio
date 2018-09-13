@@ -101,11 +101,12 @@ html, body {
   transform: scale(1.1);
 }
 
-/*.profile:hover .imageHolder:after {
+.profile:hover .imageHolder:after {
   opacity: 1;
   animation-play-state: running;
 }
-.profile .infoHolder {
+
+/*.profile .infoHolder {
   width: 60%;
   float: right;
   right: 1%;
