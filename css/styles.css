@@ -114,7 +114,7 @@ html, body {
   overflow-x: hidden;
 }
 
-/*.profile .infoHolder h2 {
+.profile .infoHolder h2 {
   font-family: 'Fjalla One', sans-serif;
   letter-spacing: 3px;
   margin-top: 0px;
@@ -124,7 +124,8 @@ html, body {
   transition: all .5s ease;
   -webkit-transition: all .5s ease;
 }
-.profile .infoHolder p {
+
+/*.profile .infoHolder p {
   font-family: 'Roboto Slab', serif;
   float: left;
   margin-top: 0px;
