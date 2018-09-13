@@ -4,6 +4,13 @@
   box-sizing: border-box;
 }
 
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -12,12 +19,6 @@
   background-size: 100%;
 }
 
-html, body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
 
 .profile {
   width: 1080px;
