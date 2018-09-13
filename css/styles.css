@@ -21,13 +21,15 @@ html, body {
   cursor: pointer;
 }
 
-/*
 .profile .imageHolder {
   float: left;
   width: 30%;
   position: relative;
   left: 5%;
 }
+
+/*
+
 .profile .imageHolder .profilePic {
   width: 100%;
   float: left;
