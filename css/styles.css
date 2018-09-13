@@ -125,7 +125,7 @@ html, body {
   -webkit-transition: all .5s ease;
 }
 
-/*.profile .infoHolder p {
+.profile .infoHolder p {
   font-family: 'Roboto Slab', serif;
   float: left;
   margin-top: 0px;
@@ -134,7 +134,8 @@ html, body {
   transition: all .62s ease;
   -webkit-transition: all .62s ease;
 }
-.profile:hover .infoHolder h2, .profile:hover .infoHolder p {
+
+/*.profile:hover .infoHolder h2, .profile:hover .infoHolder p {
   transform: translateX(0%);
 }
 
