@@ -153,14 +153,15 @@ html, body {
   }
 }
 
-/*@media screen and (max-width: 1080px) {
+@media screen and (max-width: 1080px) {
   .profile {
     width: 100%;
     left: 0%;
     margin-left: 0px;
   }
 }
-@keyframes bounce {
+
+/*@keyframes bounce {
   0% {
     transform: translateY(0px);
   }
