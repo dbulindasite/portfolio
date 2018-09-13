@@ -68,7 +68,7 @@ html, body {
   color: #110500;
   position: absolute;
   width: 100%;
-  padding: 0px 0px 0px 32%;
+  padding: 0px 0px 0px 640px;
   margin-top: -50px;
   margin-bottom: 0px;
   font-size: 95px;
@@ -89,11 +89,11 @@ html, body {
   bottom: -10vw;
   width: 5px;
   height: 10vw;
-  background-color: #D10606;
+  background-color: #7094B4;
 }
 
 .profile:hover h1 {
-  transform: translateY(30vw);
+  transform: translateX(30vw);
 }
 
 .profile:hover .profilePic {
@@ -140,6 +140,10 @@ html, body {
   transform: translateX(0%);
 }
 
+.dropdown{
+  padding-top: 350px;
+}
+
 ul {
   list-style-type: circle;
   max-width: 250px;
@@ -172,13 +176,13 @@ details[open] summary:after {
 }
 
 details {
-  border: 1px solid #E1E1E1;
+  /*border: 1px solid #E1E1E1;
   border-radius: 5px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, .4);
-  color: #363636;
   margin: 0 0 .4em;
-  padding: 1%;
-  padding-top: 330px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .4);*/
+  color: #363636;
+  padding: 0;
+  padding-top: 10px;
   font-family: 'Roboto Slab', serif;
 }
 
@@ -226,8 +230,8 @@ h3 {
   font-weight: normal;
   text-align: center;
   color: #c0c0c0;
-  padding-top: 550px;
-  padding-bottom: 10px;
+  padding-top: 950px;
+  padding-bottom: 5px;
   padding-left: 90px;
   width: 375px;
   margin: 0 auto;
