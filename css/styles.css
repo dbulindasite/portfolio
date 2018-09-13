@@ -80,8 +80,6 @@ html, body {
   -webkit-transition: all .5s ease;
 }
 
-/*
-
 .profile h1:after {
   content: '';
   float: left;
@@ -92,10 +90,12 @@ html, body {
   height: 10vw;
   background-color: #D10606;
 }
+
 .profile:hover h1 {
   transform: translateY(30vw);
 }
-.profile:hover .profilePic {
+
+/*.profile:hover .profilePic {
   -webkit-filter: grayscale(0%);
   filter: grayscale(0%);
   transform: scale(1.1);
