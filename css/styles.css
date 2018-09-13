@@ -139,7 +139,7 @@ html, body {
   transform: translateX(0%);
 }
 
-/*ul {
+ul {
   list-style-type: circle;
   max-width: 250px;
 }
@@ -148,7 +148,7 @@ p {
   width: 290px;
 }
 
-summary::-webkit-details-marker {
+/*summary::-webkit-details-marker {
   display: none
 }
 
@@ -178,6 +178,7 @@ details {
   padding: 1%;
 }
 */
+
 @media screen and (min-width: 1080px) {
   h1 {
     font-size: 95px !important;
