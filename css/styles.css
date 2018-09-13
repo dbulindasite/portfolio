@@ -161,7 +161,7 @@ html, body {
   }
 }
 
-/*@keyframes bounce {
+@keyframes bounce {
   0% {
     transform: translateY(0px);
   }
@@ -173,7 +173,7 @@ html, body {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
