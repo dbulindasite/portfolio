@@ -135,11 +135,11 @@ html, body {
   -webkit-transition: all .62s ease;
 }
 
-/*.profile:hover .infoHolder h2, .profile:hover .infoHolder p {
+.profile:hover .infoHolder h2, .profile:hover .infoHolder p {
   transform: translateX(0%);
 }
 
-@media screen and (min-width: 1080px) {
+/*@media screen and (min-width: 1080px) {
   h1 {
     font-size: 120pt !important;
     letter-spacing: 20pt !important;
