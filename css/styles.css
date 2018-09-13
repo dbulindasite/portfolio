@@ -9,6 +9,7 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-color: #7094B4;
 }
 
 .profile {
@@ -64,7 +65,7 @@ html, body {
 
 .profile h1 {
   font-family: 'Fjalla One', sans-serif;
-  color: #D10606;
+  color: #110500;
   position: absolute;
   width: 100%;
   padding: 0px 0px 0px 32%;
@@ -177,7 +178,7 @@ details {
   color: #363636;
   margin: 0 0 .4em;
   padding: 1%;
-  padding-top: 350px;
+  padding-top: 330px;
   font-family: 'Roboto Slab', serif;
 }
 
@@ -249,7 +250,7 @@ h3 {
 }
 
 .cal caption {
-  background: #d44;
+  background: #7094B4;
   color: #eee;
   font-size: 15px;
 }
