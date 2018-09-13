@@ -159,6 +159,7 @@ summary:after {
   color: #fff;
   float: left;
   font-size: 1.3em;
+  font-family: 'Roboto Slab', serif;
   margin: -5px 10px 0 0;
   padding: 0;
   text-align: center;
@@ -169,15 +170,16 @@ details[open] summary:after {
   content: "-";
 }
 
-/*details {
+details {
   border: 1px solid #E1E1E1;
   border-radius: 5px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, .4);
   color: #363636;
   margin: 0 0 .4em;
   padding: 1%;
+  padding-top: 350px;
+  font-family: 'Roboto Slab', serif;
 }
-*/
 
 @media screen and (min-width: 1080px) {
   h1 {
