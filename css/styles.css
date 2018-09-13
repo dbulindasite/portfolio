@@ -68,7 +68,7 @@ html, body {
   color: #110500;
   position: absolute;
   width: 100%;
-  padding: 0px 0px 0px 640px;
+  padding: 60px 0px 0px 540px;
   margin-top: -50px;
   margin-bottom: 0px;
   font-size: 95px;
@@ -79,6 +79,7 @@ html, body {
   pointer-events: none;
   transition: all .5s ease;
   -webkit-transition: all .5s ease;
+  */
 }
 
 .profile h1:after {
@@ -93,7 +94,7 @@ html, body {
 }
 
 .profile:hover h1 {
-  transform: translateX(30vw);
+  transform: translateY(30vw);
 }
 
 .profile:hover .profilePic {
@@ -111,7 +112,8 @@ html, body {
   width: 60%;
   float: right;
   right: 1%;
-  position: absolute;
+  background-color: white;
+  position: relative;
   overflow-x: hidden;
 }
 
@@ -140,7 +142,7 @@ html, body {
   transform: translateX(0%);
 }
 
-.dropdown{
+.dropdown {
   padding-top: 350px;
 }
 
