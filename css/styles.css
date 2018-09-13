@@ -11,15 +11,6 @@ html, body {
   padding: 0;
 }
 
-/*body {
-  text-align: center;
-  font-family: courier;
-  background-image: url("../assets/image.jpeg");
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
-
-
 .profile {
   width: 1080px;
   left: 50%;
@@ -29,6 +20,8 @@ html, body {
   margin-left: -540px;
   cursor: pointer;
 }
+
+/*
 .profile .imageHolder {
   float: left;
   width: 30%;
